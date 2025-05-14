@@ -5,7 +5,7 @@ class Util {
     static $GO_TO_MAIN_MENU = "99";
   
     static $host = 'localhost';
-    static $db = 'farmer_market'; 
+    static $db = 'farmer_market';
     static $user = 'root';          
     static $pass = '';   
     
